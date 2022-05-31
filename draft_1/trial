@@ -4,15 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="draft_2.css">
-    <title>Home_page</title>
+    <link rel="stylesheet" href="trail.css">
+    <title>Document</title>
 </head>
 <body>
-    <div> class ="slider" </div>
-<div>Header</div>
-<div>Gallery</div>
-<div>Mission_Section</div>
-<div>Car_brand_section</div>
-<div>Car_type_section</div>
+
 </body>
 </html>

@@ -1,15 +1,11 @@
-#slider{
-    overflow: hidden;
-}
-#slider figure{
-    position: relative;
-    width: 500%;
+body{
     margin: 0;
-    left: 0;
-     animation: 20s slider infinite;
-} 
-#slider img {
-    float: left;
-    width: 20%;
-     
+    padding: 0;
+
+    background-color: bisque;
+}
+.slider{
+    background: url(car_1.jpeg);
+    margin: 100px auto;
+    animation: slide 20s infinite;
 }
